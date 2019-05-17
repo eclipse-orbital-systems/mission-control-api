@@ -1,0 +1,5 @@
+MYSQL_HOST: "127.0.0.1"
+MYSQL_USERNAME: "username"
+MYSQL_PASSWORD: "password"
+GORM_LOG: "true"
+SECURITY_DISABLED: true
